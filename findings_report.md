@@ -1,5 +1,6 @@
 Below are the finding i found in my analysis notebook
-NOTE:- the below text was AI generated, with the prompt 
+NOTE:- the below text was AI generated, with the prompt for just formatting 
+the analysis nodebook markdowns , none of the data in this report was AI only generated i have used it only for formatting, you can find the correnponding section of each listing below in the analysi notebook
 
 
 
