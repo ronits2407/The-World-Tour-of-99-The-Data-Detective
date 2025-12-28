@@ -101,3 +101,22 @@ This report summarizes the data-driven verification of the hypotheses found in t
 * The visualization showed **highter response** for  months **March-October** for 
 all venues **except  V_Beta**.
 
+
+
+=========================================================================
+
+My reasoning for use of Random Regresson Forest is mentioned in the analysis notebook
+ which i will just copy paste below
+
+
+
+
+since we saw that there are hidden features which a simple multi-variable regressor would miss , as it would't see many factors venue wise
+
+ and since RandomForest model is the only one in the resources which i think is right
+i already clarified why not use multi variable regressor , since it will miss the exceptional Monk think , also it will also miss the V_Gamma Price sensitivity as , since for other venue it deoes not matter it will overweight the V_Gamma effect
+
+moreover RandomFOrest model would create a root note / closer to root node , a node of Venue as since most of our things are based of Venue
+
+
+============================================================================
